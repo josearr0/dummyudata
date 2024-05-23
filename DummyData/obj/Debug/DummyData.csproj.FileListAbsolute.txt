@@ -1,0 +1,13 @@
+C:\Users\josea\source\repos\DummyData\DummyData\bin\Debug\DummyData.exe.config
+C:\Users\josea\source\repos\DummyData\DummyData\bin\Debug\DummyData.exe
+C:\Users\josea\source\repos\DummyData\DummyData\bin\Debug\DummyData.pdb
+C:\Users\josea\source\repos\DummyData\DummyData\bin\Debug\Newtonsoft.Json.dll
+C:\Users\josea\source\repos\DummyData\DummyData\bin\Debug\Newtonsoft.Json.xml
+C:\Users\josea\source\repos\DummyData\DummyData\obj\Debug\DummyData.csproj.AssemblyReference.cache
+C:\Users\josea\source\repos\DummyData\DummyData\obj\Debug\DummyData.Form1.resources
+C:\Users\josea\source\repos\DummyData\DummyData\obj\Debug\DummyData.Properties.Resources.resources
+C:\Users\josea\source\repos\DummyData\DummyData\obj\Debug\DummyData.csproj.GenerateResource.cache
+C:\Users\josea\source\repos\DummyData\DummyData\obj\Debug\DummyData.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\DummyData\DummyData\obj\Debug\DummyData.csproj.Up2Date
+C:\Users\josea\source\repos\DummyData\DummyData\obj\Debug\DummyData.exe
+C:\Users\josea\source\repos\DummyData\DummyData\obj\Debug\DummyData.pdb
